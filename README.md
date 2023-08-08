@@ -1,5 +1,5 @@
 
-# Photosensitive Power Relay (Arduino) | README
+# Photosensitive Power Relay (Arduino)
 
 Build on Adafruit's [Feather M0 Bluefruit LE](https://www.adafruit.com/product/2995), this photosensitive power relay allows for controlling a string of AC lights with BLE. Presently, the relay supports the following:
 
