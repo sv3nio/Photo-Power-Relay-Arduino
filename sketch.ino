@@ -1,6 +1,6 @@
 /*
-PHOTO POWER LIGHT RELAY (Arduino)
-====================================================================================
+PHOTO POWER RELAY (by Sven Thomas)
+======================================
 A simple photosensitive power relay for controlling lights with BLE for wireless
 command and control.
 */
