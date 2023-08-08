@@ -3,6 +3,8 @@
 
 Build on Adafruit's [Feather M0 Bluefruit LE](https://www.adafruit.com/product/2995), this photosensitive power relay allows for controlling a string of AC lights with BLE.
 
+<img alt="Photosensitive Power Relay" src="/img/photo-pwr-relay.jpg" width=400><br/>
+
 ## Key Features
 
 - Automatic power-on at dusk using sensible defaults. The light threshold value for turning on/off can be adjusted in volatile memrory. This value resets to default on power cycle.
