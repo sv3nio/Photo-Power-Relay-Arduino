@@ -1,4 +1,4 @@
-UPDATE: This project has been [ported to CircuitPython](#) and upgraded with features like: intelligent auto-timing, WiFi, Web API and more. 
+:warning: UPDATE: This project has been [ported to CircuitPython](#) and upgraded with features like: intelligent auto-timing, WiFi, Web API and more.
 
 # Photosensitive Power Relay (Arduino)
 
