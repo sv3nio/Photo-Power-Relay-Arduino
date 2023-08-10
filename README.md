@@ -19,11 +19,11 @@ Build on Adafruit's [Feather M0 Bluefruit LE](https://www.adafruit.com/product/2
   - APPLE:   <https://apps.apple.com/app/adafruit-bluefruit-le-connect/id830125974>
 
 ## Security
-Given that this is simply an AC power control with no IP connectivity, security is not a top priority. That said, this project...
+Given that this is simply an AC power control with no IP connectivity and limited BLE range, security is not a top priority. That said, this project...
   - does not store sensitive information,
   - only works using a UART app,
   - does not advertise how to make changes when connected,
-  - validates input and silently ignores invalid data.
+  - validates and silently ignores invalid input.
 
 # CHANGE LOG
 
