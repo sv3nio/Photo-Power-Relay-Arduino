@@ -25,7 +25,7 @@ Given that this is simply an AC power control relay with no IP connectivity and 
   - does not advertise how to make changes when connected,
   - validates and silently ignores invalid input.
 
-# CHANGE LOG
+# Change Log
 
 ## 2022.10.05 - v1.0 RELEASE
 
