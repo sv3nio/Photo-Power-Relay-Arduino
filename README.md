@@ -1,8 +1,6 @@
-:warning: UPDATE: This project has been [ported to CircuitPython](#) and upgraded with features like: intelligent auto-timing, WiFi, Web API and more.
-
 # Photosensitive Power Relay (Arduino)
 
-Built on Adafruit's [Feather M0 Bluefruit LE](https://www.adafruit.com/product/2995), this photosensitive power relay allows for controlling a string of AC lights (or any AC device) with BLE.
+Built on Adafruit's [Feather M0 Bluefruit LE](https://www.adafruit.com/product/2995), this time-agnostic photosensitive relay allows for controlling a string of AC lights (or any AC device) with BLE.
 
 <img alt="Photosensitive Power Relay" src="/img/photo-pwr-relay.jpg" width=400><br/>
 
