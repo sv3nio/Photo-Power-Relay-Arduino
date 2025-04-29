@@ -1,8 +1,8 @@
 # Photosensitive Power Relay (Arduino)
 
-Built on Adafruit's [Feather M0 Bluefruit LE](https://www.adafruit.com/product/2995), this time-agnostic photosensitive relay allows for controlling a string of AC lights (or any AC device) with BLE.
+Built on Adafruit's [Feather M0 Bluefruit LE](https://www.adafruit.com/product/2995), this time-agnostic photo-sensitive relay allows for controlling a string of AC lights (or any AC device) with BLE.
 
-<img alt="Photosensitive Power Relay" src="/img/photo-pwr-relay.jpg" width=400><br/>
+<img alt="Photo-sensitive Power Relay" src="/img/photo-pwr-relay.jpg" width=400><br/>
 
 ## Key Features
 
@@ -10,7 +10,7 @@ Built on Adafruit's [Feather M0 Bluefruit LE](https://www.adafruit.com/product/2
 
 - An automatic power-off timer during the night using a sensible default (avoids having the lights on all night). The value is customizable in volatile memory and resets on power cycle.
 
-- Temporary override to toggle the relay. This feature will override the current power state until photostatic levels cross the next threshold. After this, the unit will automatically return to the pre-programmed schedule.
+- Temporary override to toggle the relay. This feature will override the current power state until light levels cross the next threshold. After this, the unit will automatically return to the pre-programmed schedule.
 
 - Wireless command and control over BLE UART with a simple menu system (once connected send "0" to show the main menu). This unit requires a special BLE app and will not work with your phone without it. Here are some suggestions:
   - ANDROID: <https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal>
